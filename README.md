@@ -1,5 +1,5 @@
 👋 Hi, I’m Carlos Alves!
-👀 I’m interested in working in Android, using Kotlin. Personally, I would like to learn and develop some homebrew stuff in C++
+👀 I’m interested in working with Android, using Kotlin. Personally, I would like to learn and develop some homebrew stuff in C++
 
 🌱 I’m currently learning several languages. I'm about to finish my degree in Computer Science, and I've learned to work with quite a few languages.<br/>
 To this list, I can add:
